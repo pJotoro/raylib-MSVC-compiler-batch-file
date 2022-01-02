@@ -4,4 +4,5 @@ To follow this tutorial, you must first install Visual Studio. When you get the 
 
 Visual Studio: https://visualstudio.microsoft.com/downloads/
 
-You can follow this tutorial with whatever code editor you want. First of all: why did I decide to do this in the first place? Why not just use MinGW like everyone else? The reason is simply that my favorite debugger is RemedyBG and that this debugger requires that you use a pdb file. You can also generate this file with clang according to ziv.k, but we will use the Microsoft C/C++ compiler since pdb is made by Microsoft, and also because neither compiler is easier to get working with raylib to my knowledge.
+You can follow this tutorial with whatever code editor you want. First of all: why did I decide to do this in the first place? Why not just use MinGW like everyone else? The reason is simply that my favorite debugger is RemedyBG and that this debugger requires that you use a pdb file. You can also generate this file with clang according to ziv.k, but we will use the Microsoft C/C++ compiler since pdb is made by Microsoft, and also because neither compiler is easier to get working with raylib to my knowledge. This tutorial will explain what everything in the batch file does, so even if you have no idea what a batch file is, you will be able to follow along.
+
